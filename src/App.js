@@ -68,6 +68,7 @@ function App() {
               <li> 
                     Upcoming Research Intern at Adobe Systems
                   </li>
+                  Summer of 2021
               </ul>
               
           </div>
@@ -75,16 +76,16 @@ function App() {
       <hr height='2px'/>
       <div className="row no-gutters align-items-center justify-content-center p-2 footer" style={{marginTop:'auto'}}>
           <div className="col-md-auto p-1">
-              <NavLink to='https://www.linkedin.com/in/silky-singh-29578518b/' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaLinkedin size={20}/></NavLink>
+              <a href='https://www.linkedin.com/in/silky-singh-29578518b/' style={{textDecoration:'None', color: 'black', opacity:'1'}}><FaLinkedin size={20}/></a>
           </div>
           <div className="col-md-auto p-1">
-          <NavLink to='mailto:silky1708@gmail.com' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><SiGmail size={20}/></NavLink>
+          <a href='mailto:silky1708@gmail.com' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><SiGmail size={20}/></a>
           </div>
           <div className="col-md-auto p-1">
-          <NavLink to='https://github.com/silky1708' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaGithub size={20}/></NavLink>
+          <a href='https://github.com/silky1708' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaGithub size={20}/></a>
           </div>
           <div className="col-md-auto p-1">
-          <NavLink to='https://www.hackerrank.com/silky1708' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaHackerrank size={20}/></NavLink>
+          <a href='https://www.hackerrank.com/silky1708' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaHackerrank size={20}/></a>
           </div>
       </div>
       <div className="row no-gutters copyright p-3 mb-0" style={{background:'#DCDCDC', color:'black', marginTop:'50vh'}}>
