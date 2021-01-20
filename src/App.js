@@ -1,23 +1,31 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import styled from styled-components;
+
+const Styles = styled.div`
+  .header{
+    background = black;
+    height = 50px;
+  }
+
+`
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='outer-container '>
+      <div className="header row">
+
+
+      </div>
+      <div className="row">
+          <div className="col-md-4"></div>
+          <div className="col-md-4">
+            {/* my pic here */}
+          </div>
+          <div className="col-md-4">
+          </div>
+      </div>
     </div>
   );
 }
