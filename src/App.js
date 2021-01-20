@@ -6,6 +6,7 @@ import {FaLinkedin} from 'react-icons/fa';
 import {SiGmail} from 'react-icons/si';
 import {FaGithub} from 'react-icons/fa';
 import {FaHackerrank} from 'react-icons/fa';
+import {BiCopyright} from 'react-icons/bi';
 import {NavLink} from 'react-router-dom';
 
 
@@ -44,28 +45,50 @@ function App() {
               <h3>Education</h3><br/>
               <ul style={{color:'grey'}}>
                 <li>B.Tech, Indian Institute of Technology Delhi</li>
-                <br/> Mathematics and Computing, 2018-present
+                 Mathematics and Computing, 2018-present
 
               </ul>
+              <ul style={{color:'grey'}}>
+                <li>Higher Secondary, Central Academy</li>
+                Grade- 94.2%
+              </ul>
+              <ul style={{color:'grey'}}>
+                <li>High School, Deoria Senior Secondary School</li>
+                GPA- 10.0/10.0
+              </ul>
+          </div>
+          <div className="internships col-md-5 mx-auto">
+              <h3>Internships</h3><br/>
+              <ul style={{color:'grey'}}>
+                <li>MateRate Education Pvt Ltd, New Delhi</li>
+                 Frontend Developer, May 2020-July 2020
+                  
+              </ul>
+              <ul style={{color:'grey'}}>
+              <li> 
+                    Upcoming Research Intern at Adobe Systems
+                  </li>
+              </ul>
+              
           </div>
       </div>
       <hr height='2px'/>
-      <div className="row no-gutters align-items-center justify-content-center p-2 footer">
+      <div className="row no-gutters align-items-center justify-content-center p-2 footer" style={{marginTop:'auto'}}>
           <div className="col-md-auto p-1">
-              <NavLink to='https://www.linkedin.com/in/silky-singh-29578518b/' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaLinkedin style={{size:'10'}}/></NavLink>
+              <NavLink to='https://www.linkedin.com/in/silky-singh-29578518b/' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaLinkedin size={20}/></NavLink>
           </div>
           <div className="col-md-auto p-1">
-          <NavLink to='mailto:silky1708@gmail.com' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><SiGmail/></NavLink>
+          <NavLink to='mailto:silky1708@gmail.com' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><SiGmail size={20}/></NavLink>
           </div>
           <div className="col-md-auto p-1">
-          <NavLink to='https://github.com/silky1708' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaGithub/></NavLink>
+          <NavLink to='https://github.com/silky1708' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaGithub size={20}/></NavLink>
           </div>
           <div className="col-md-auto p-1">
-          <NavLink to='https://www.hackerrank.com/silky1708' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaHackerrank/></NavLink>
+          <NavLink to='https://www.hackerrank.com/silky1708' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaHackerrank size={20}/></NavLink>
           </div>
       </div>
-      <div className="row copyright p-3 mb-0" style={{background:'grey', color:'black'}}>
-         &#169; Copyright 2021, Silky Singh. All rights reserved.
+      <div className="row no-gutters copyright p-3 mb-0" style={{background:'#DCDCDC', color:'black', marginTop:'50vh'}}>
+      <BiCopyright size={15}/> Copyright 2021, Silky Singh. All rights reserved.
       </div>
     </div>
   ); 
