@@ -1,4 +1,4 @@
-# silkysingh.github.io
+# silkysingh
 Get to know me here- https://silkysingh.github.io
 
 
