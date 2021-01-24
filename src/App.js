@@ -29,7 +29,7 @@ function App() {
 
       </div>
       <div className="container text-center p-3 m-1">
-        <h2 style={{}}>Hi there! I am Silky Singh.</h2>
+        <h2 style={{}} className="text-center">Hi there! I am Silky Singh.</h2>
       </div>
       <div className="row align-items-center no-gutters mid-section">
           <div className="col-md-4"></div>
