@@ -7,7 +7,7 @@ import {SiGmail} from 'react-icons/si';
 import {FaGithub} from 'react-icons/fa';
 import {FaHackerrank} from 'react-icons/fa';
 import {BiCopyright} from 'react-icons/bi';
-import VisitCount from './components/VisitCount';
+// import VisitCount from './components/VisitCount';
 // import {NavLink} from 'react-router-dom';
 
 
@@ -90,9 +90,9 @@ function App() {
           </div>
       </div>
 
-      <div className="row px-2 py-1 no-gutters justify-content-center align-items-center text-right" >
+      {/* <div className="row px-2 py-1 no-gutters justify-content-center align-items-center text-right" >
         <VisitCount/>
-      </div>
+      </div> */}
       
 
       <div className="row no-gutters copyright p-3 mb-0" style={{background:'#DCDCDC', color:'black', marginTop:'50vh'}}>
