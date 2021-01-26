@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/silkysingh.github.io/static/css/main.5cec8b41.chunk.css",
-    "main.js": "/silkysingh.github.io/static/js/main.be9c0064.chunk.js",
-    "main.js.map": "/silkysingh.github.io/static/js/main.be9c0064.chunk.js.map",
-    "runtime-main.js": "/silkysingh.github.io/static/js/runtime-main.13c51f0f.js",
-    "runtime-main.js.map": "/silkysingh.github.io/static/js/runtime-main.13c51f0f.js.map",
+    "main.js": "/silkysingh.github.io/static/js/main.9d0f3d69.chunk.js",
+    "main.js.map": "/silkysingh.github.io/static/js/main.9d0f3d69.chunk.js.map",
+    "runtime-main.js": "/silkysingh.github.io/static/js/runtime-main.60608058.js",
+    "runtime-main.js.map": "/silkysingh.github.io/static/js/runtime-main.60608058.js.map",
     "static/css/2.150d169a.chunk.css": "/silkysingh.github.io/static/css/2.150d169a.chunk.css",
-    "static/js/2.e0561f65.chunk.js": "/silkysingh.github.io/static/js/2.e0561f65.chunk.js",
-    "static/js/2.e0561f65.chunk.js.map": "/silkysingh.github.io/static/js/2.e0561f65.chunk.js.map",
-    "static/js/3.f69f9d7f.chunk.js": "/silkysingh.github.io/static/js/3.f69f9d7f.chunk.js",
-    "static/js/3.f69f9d7f.chunk.js.map": "/silkysingh.github.io/static/js/3.f69f9d7f.chunk.js.map",
+    "static/js/2.f7e52ce7.chunk.js": "/silkysingh.github.io/static/js/2.f7e52ce7.chunk.js",
+    "static/js/2.f7e52ce7.chunk.js.map": "/silkysingh.github.io/static/js/2.f7e52ce7.chunk.js.map",
+    "static/js/3.615783c3.chunk.js": "/silkysingh.github.io/static/js/3.615783c3.chunk.js",
+    "static/js/3.615783c3.chunk.js.map": "/silkysingh.github.io/static/js/3.615783c3.chunk.js.map",
     "index.html": "/silkysingh.github.io/index.html",
     "static/css/2.150d169a.chunk.css.map": "/silkysingh.github.io/static/css/2.150d169a.chunk.css.map",
     "static/css/main.5cec8b41.chunk.css.map": "/silkysingh.github.io/static/css/main.5cec8b41.chunk.css.map",
-    "static/js/2.e0561f65.chunk.js.LICENSE.txt": "/silkysingh.github.io/static/js/2.e0561f65.chunk.js.LICENSE.txt"
+    "static/js/2.f7e52ce7.chunk.js.LICENSE.txt": "/silkysingh.github.io/static/js/2.f7e52ce7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.13c51f0f.js",
+    "static/js/runtime-main.60608058.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.e0561f65.chunk.js",
+    "static/js/2.f7e52ce7.chunk.js",
     "static/css/main.5cec8b41.chunk.css",
-    "static/js/main.be9c0064.chunk.js"
+    "static/js/main.9d0f3d69.chunk.js"
   ]
 }
