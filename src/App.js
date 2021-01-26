@@ -7,7 +7,8 @@ import {SiGmail} from 'react-icons/si';
 import {FaGithub} from 'react-icons/fa';
 import {FaHackerrank} from 'react-icons/fa';
 import {BiCopyright} from 'react-icons/bi';
-import {NavLink} from 'react-router-dom';
+import VisitCount from './components/VisitCount';
+// import {NavLink} from 'react-router-dom';
 
 
 // import styled from styled-components;
@@ -88,9 +89,18 @@ function App() {
           <a href='https://www.hackerrank.com/silky1708' style={{textDecoration:'None', color: 'black', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaHackerrank size={20}/></a>
           </div>
       </div>
+
+      <div className="row px-2 py-1 no-gutters justify-content-center align-items-center text-right" >
+        <VisitCount/>
+      </div>
+      
+
       <div className="row no-gutters copyright p-3 mb-0" style={{background:'#DCDCDC', color:'black', marginTop:'50vh'}}>
       <BiCopyright size={15}/> Copyright 2021, Silky Singh. All rights reserved.
       </div>
+      
+     
+            
     </div>
   ); 
 }
