@@ -74,4 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### To deploy on github pages
 
-```npm run deploy``` in the source folder
+1. ```npm run build``` 
+2. ```npm run deploy``` in the source folder
