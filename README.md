@@ -1,4 +1,4 @@
-Visit here- https://silky1708.github.io/silkysingh.github.io/
+Visit here- https://silky1708.github.io/silkysingh
 
 
 # Getting Started with Create React App
@@ -75,4 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### To deploy on github pages
 
 1. ```npm run build``` 
-2. ```npm run deploy``` in the source folder
+2. ```npm run deploy```
