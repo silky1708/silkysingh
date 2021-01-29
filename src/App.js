@@ -61,16 +61,23 @@ function App() {
           <div className="internships col-md-5 mx-auto">
               <h3>Internships</h3><br/>
               <ul style={{color:'grey'}}>
+              <li> 
+                  Upcoming Research Intern at Adobe Systems
+                  </li>
+                  Summer of 2021
+              </ul>
+              <ul style={{color:'grey'}}>
+              <li> 
+                  Max Planck Institute for Software Systems, Germany
+                  </li>
+                  Research Fellow, Jan 2021 - present
+              </ul>
+              <ul style={{color:'grey'}}>
                 <li>MateRate Education Pvt Ltd, New Delhi</li>
                  Frontend Developer, May 2020-July 2020
                   
               </ul>
-              <ul style={{color:'grey'}}>
-              <li> 
-                    Upcoming Research Intern at Adobe Systems
-                  </li>
-                  Summer of 2021
-              </ul>
+              
               
           </div>
       </div>
