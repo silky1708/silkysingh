@@ -2,6 +2,8 @@ import React from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
 import styled from 'styled-components';
+import Image from 'react-bootstrap/Image'
+import mypic from '../images/about_me.png';
 
 const Styles = styled.div`
 font-family: "Yusei Magic", sans-serif;
@@ -12,9 +14,16 @@ class About extends React.Component{
         return (
             <Styles>
                 <Navbar/>
-                <span className="p-2 m-2"><h3>&nbsp; About Me</h3></span>
+                <div className="p-2 m-2 row no-gutters align-items-center">
+                    <div className="col-md-9 d-flex align-items-center justify-content-center">
+                        <h3>&nbsp;About Me</h3>
+                    </div>
+                    <div className="col-md-3 d-flex align-items-center justify-content-left">
+                        <Image src={mypic} style={{height:'130px', width:'130px'}} className="shadow" roundedCircle/>
+                    </div>
+                </div>
                 <div className="row p-2 no-gutters">
-                    <div className="m-2 shadow p-3 mb-5 bg-white rounded">
+                    <div className="m-3 shadow p-3 mb-5 bg-white rounded">
                         <p><br/>
                         My name is Silky Singh. I'm currently a junior undergrad at <a href="https://home.iitd.ac.in/" style={{color:'#e2498a'}}><u>IIT Delhi</u></a>, 
                         pursuing a major in Mathematics and Computing. 

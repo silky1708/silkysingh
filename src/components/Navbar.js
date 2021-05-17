@@ -19,17 +19,17 @@ class Navbar extends React.Component{
             <Styles>
             <div className="header row no-gutters w-100 align-items-center" style={{height:'50px', backgroundColor:'black'}}>
                 <div className="col-md-7 text-left pt-2 pl-2" style={{color:'white'}}></div>
-                <NavLink className="navbar" exact to="/" style={{color:'white', textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
+                <NavLink className="navbar" exact to="/silkysingh/" style={{color:'white', textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
                 <FaHome size={20}/></NavLink>
-                <NavLink to="/about" style={{color:'white', textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
+                <NavLink to="/silkysingh/about" style={{color:'white', textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
                 <div className="navbar col-md-1 text-center">About</div></NavLink>
-                <NavLink to="/resume" style={{color:'white',textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
+                <NavLink to="/silkysingh/resume" style={{color:'white',textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
                 <div className="navbar col-md-1 text-center">Resumé</div>
                 </NavLink>
-                <NavLink to="/misc" style={{color:'white',textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
+                <NavLink to="/silkysingh/misc" style={{color:'white',textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
                 <div className="navbar col-md-1 text-center">Misc.</div>
                 </NavLink>
-                <NavLink to="/blog" style={{color:'white',textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
+                <NavLink to="/silkysingh/blog" style={{color:'white',textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
                 <div className="navbar col-md-1 text-center">Blog</div>
                 </NavLink>
 

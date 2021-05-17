@@ -16,15 +16,17 @@ import {
   Switch
 } from "react-router-dom";
 
+// const prefix = "/silkysingh"
+
 ReactDOM.render(
   <React.StrictMode>
     <Router>
       <Switch>
-        <Route exact path="/" component={App}/>
-        <Route exact path="/about" component={About}/>
-        <Route exact path="/resume" component={Resume}/>
-        <Route exact path="/misc" component={Misc}/>
-        <Route exact path="/blog" component={Blog}/>
+        <Route exact path="/silkysingh/" component={App}/>
+        <Route exact path="/silkysingh/about" component={About}/>
+        <Route exact path="/silkysingh/resume" component={Resume}/>
+        <Route exact path="/silkysingh/misc" component={Misc}/>
+        <Route exact path="/silkysingh/blog" component={Blog}/>
 
       </Switch>
     {/* <App /> */}
