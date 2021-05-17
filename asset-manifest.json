@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/silkysingh/static/css/main.bf15a918.chunk.css",
-    "main.js": "/silkysingh/static/js/main.229107a7.chunk.js",
-    "main.js.map": "/silkysingh/static/js/main.229107a7.chunk.js.map",
-    "runtime-main.js": "/silkysingh/static/js/runtime-main.2a35f1f8.js",
-    "runtime-main.js.map": "/silkysingh/static/js/runtime-main.2a35f1f8.js.map",
+    "main.css": "/silkysingh/static/css/main.c1f74b45.chunk.css",
+    "main.js": "/silkysingh/static/js/main.58941c5d.chunk.js",
+    "main.js.map": "/silkysingh/static/js/main.58941c5d.chunk.js.map",
+    "runtime-main.js": "/silkysingh/static/js/runtime-main.8b42492f.js",
+    "runtime-main.js.map": "/silkysingh/static/js/runtime-main.8b42492f.js.map",
     "static/css/2.150d169a.chunk.css": "/silkysingh/static/css/2.150d169a.chunk.css",
-    "static/js/2.5cfef9ec.chunk.js": "/silkysingh/static/js/2.5cfef9ec.chunk.js",
-    "static/js/2.5cfef9ec.chunk.js.map": "/silkysingh/static/js/2.5cfef9ec.chunk.js.map",
-    "static/js/3.f69f9d7f.chunk.js": "/silkysingh/static/js/3.f69f9d7f.chunk.js",
-    "static/js/3.f69f9d7f.chunk.js.map": "/silkysingh/static/js/3.f69f9d7f.chunk.js.map",
+    "static/js/2.6de23433.chunk.js": "/silkysingh/static/js/2.6de23433.chunk.js",
+    "static/js/2.6de23433.chunk.js.map": "/silkysingh/static/js/2.6de23433.chunk.js.map",
+    "static/js/3.caed2c3d.chunk.js": "/silkysingh/static/js/3.caed2c3d.chunk.js",
+    "static/js/3.caed2c3d.chunk.js.map": "/silkysingh/static/js/3.caed2c3d.chunk.js.map",
     "index.html": "/silkysingh/index.html",
     "static/css/2.150d169a.chunk.css.map": "/silkysingh/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.bf15a918.chunk.css.map": "/silkysingh/static/css/main.bf15a918.chunk.css.map",
-    "static/js/2.5cfef9ec.chunk.js.LICENSE.txt": "/silkysingh/static/js/2.5cfef9ec.chunk.js.LICENSE.txt"
+    "static/css/main.c1f74b45.chunk.css.map": "/silkysingh/static/css/main.c1f74b45.chunk.css.map",
+    "static/js/2.6de23433.chunk.js.LICENSE.txt": "/silkysingh/static/js/2.6de23433.chunk.js.LICENSE.txt",
+    "static/media/koala.78804a69.jpg": "/silkysingh/static/media/koala.78804a69.jpg",
+    "static/media/silky_web3.a166eb9e.png": "/silkysingh/static/media/silky_web3.a166eb9e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a35f1f8.js",
+    "static/js/runtime-main.8b42492f.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.5cfef9ec.chunk.js",
-    "static/css/main.bf15a918.chunk.css",
-    "static/js/main.229107a7.chunk.js"
+    "static/js/2.6de23433.chunk.js",
+    "static/css/main.c1f74b45.chunk.css",
+    "static/js/main.58941c5d.chunk.js"
   ]
 }
