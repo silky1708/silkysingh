@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import News from './components/News.js';
 import Image from 'react-bootstrap/Image'
-import mypic from './images/silky_web3.png';
+import mypic from './images/silky_18.png';
 import {FaLinkedin} from 'react-icons/fa';
 import {SiGmail} from 'react-icons/si';
 import {FaGithub} from 'react-icons/fa';

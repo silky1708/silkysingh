@@ -14,13 +14,14 @@ class About extends React.Component{
         return (
             <Styles>
                 <Navbar/>
-                <div className="p-2 m-2 row no-gutters align-items-center">
-                    <div className="col-md-9 d-flex align-items-center justify-content-center">
+                <div className="p-2 m-2 pt-4 row no-gutters align-items-center justify-content-center">
+                    {/* <div className="col-md-9 d-flex align-items-center justify-content-center">
                         <h3>&nbsp;About Me</h3>
                     </div>
                     <div className="col-md-3 d-flex align-items-center justify-content-left">
                         <Image src={mypic} style={{height:'130px', width:'130px'}} className="shadow" roundedCircle/>
-                    </div>
+                    </div> */}
+                    <Image src={mypic} style={{height:'130px', width:'130px'}} className="shadow" roundedCircle/>
                 </div>
                 <div className="row p-2 no-gutters">
                     <div className="m-3 shadow p-3 mb-5 bg-white rounded">
