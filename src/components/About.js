@@ -24,24 +24,28 @@ class About extends React.Component{
                     <Image src={mypic} style={{height:'130px', width:'130px'}} className="shadow" roundedCircle/>
                 </div>
                 <div className="row p-2 no-gutters">
-                    <div className="m-3 shadow p-3 mb-5 bg-white rounded">
+                    <div className="col-md-1"></div>
+                    <div className="col-md m-1 p-4">
+                    {/* shadow bg-white rounded */}
                         <p><br/>
                         My name is Silky Singh. I'm currently a junior undergrad at <a href="https://home.iitd.ac.in/" style={{color:'#e2498a'}}><u>IIT Delhi</u></a>, 
                         pursuing a major in Mathematics and Computing. 
                         <br/><br/>
-                        Now, how did this website(or webapp or whatever) took shape? Thanks to Covid-19, I was tinkering with web designs {'&'} front-end development
-                        (that's how I got that summer's front-end development internship). I like building things from scratch so that I know every 
-                        nook and corner of it. It's also good to have a place where I can put notes for myself:)
+                        Now, how did this website take shape? Thanks to Covid-19, I was tinkering with web designs {'&'} front-end development.
+                        I like building things from scratch so that I know every nook and corner of it. It's also good to have a place where I can put notes for myself:)
                         There are some things I'm curious about, I will try to put them in the Misc. section. Or randomly, anything from
-                        my class notes I find interesting or took time for me to understand.
+                        my class notes I find interesting or took time for me to understand. Caution: Please note that these will be mostly based on my
+                        own taste or style so take these with a pinch of salt.
 
                         <br/><br/>
-                        I believe that explaining things to people can further consolidate the concept. With
-                        that purpose in mind, let's see how the blog shapes up!
+                        I'll use the blog section to share some experiences or simply explain a concept in detail(unlike Misc.). With
+                        this purpose in mind, let's see how the blog shapes up! If you find any bugs or have any suggestion, do drop
+                        me an email: <a href="mailto:silky1708@gmail.com" style={{color:'#e2498a'}}><u>silky1708@gmail.com</u></a>
                         
                         <br/>
                         </p>
                     </div>
+                    <div className="col-md-1"></div>
                 </div>
                 <Footer/>
             </Styles>
