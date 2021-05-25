@@ -32,7 +32,9 @@ class About extends React.Component{
                         pursuing a major in Mathematics and Computing. 
                         <br/><br/>
                         Now, how did this website take shape? Thanks to Covid-19, I was tinkering with web designs {'&'} front-end development.
-                        I like building things from scratch so that I know every nook and corner of it. It's also good to have a place where I can put notes for myself:)
+                        I realized this is somewhere I can put my imagination to work. Also, I like building things from scratch so that I know every nook and corner of it.
+                        It's also good to have a place where I can put notes for myself:)
+                        <br/><br/>
                         There are some things I'm curious about, I will try to put them in the Misc. section. Or randomly, anything from
                         my class notes I find interesting or took time for me to understand. Caution: Please note that these will be mostly based on my
                         own taste or style so take these with a pinch of salt.

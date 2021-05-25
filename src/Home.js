@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './Home.css';
 import News from './components/News.js';
 import Image from 'react-bootstrap/Image'
 import mypic from './images/silky_18.png';
