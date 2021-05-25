@@ -16,7 +16,7 @@ class Page2 extends React.Component{
                     </div>
                     <br/>
                     <div className="container-fluid">
-                        Linear Algebra is the study of matrices
+                        Linear Algebra is the branch of mathematics dealing with linear equations and their solutions.
                     </div>
                 </div>
             </Styles>

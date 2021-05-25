@@ -21,11 +21,13 @@ class About extends React.Component{
                     <div className="col-md-3 d-flex align-items-center justify-content-left">
                         <Image src={mypic} style={{height:'130px', width:'130px'}} className="shadow" roundedCircle/>
                     </div> */}
-                    <Image src={mypic} style={{height:'130px', width:'130px'}} className="shadow" roundedCircle/>
-                </div>
+                     </div>
                 <div className="row p-2 no-gutters">
-                    <div className="col-md-1"></div>
-                    <div className="col-md m-1 p-4">
+                    <div className="col-md-4 d-flex justify-content-center pt-5">
+                        <Image src={mypic} style={{height:'130px', width:'130px'}} className="shadow" roundedCircle/>
+               
+                    </div>
+                    <div className="col-md-6 m-1 p-4">
                     {/* shadow bg-white rounded */}
                         <p><br/>
                         My name is Silky Singh. I'm currently a junior undergrad at <a href="https://home.iitd.ac.in/" style={{color:'#e2498a'}}><u>IIT Delhi</u></a>, 
@@ -47,7 +49,7 @@ class About extends React.Component{
                         <br/>
                         </p>
                     </div>
-                    <div className="col-md-1"></div>
+                    <div className="col-md-2"></div>
                 </div>
                 <Footer/>
             </Styles>

@@ -1,5 +1,5 @@
 import React from 'react';
-import {NavLink} from 'react-router-dom';
+// import {NavLink} from 'react-router-dom';
 
 class News extends React.Component{
     render(){
@@ -8,7 +8,7 @@ class News extends React.Component{
                 <div className="news text-left">
                 <h4 style={{}}><u>News</u></h4><br/>
                 <ul>
-                    <li><span style={{color:'black', backgroundColor:'#ffdab9'}}>May 2021:</span>Joined <a href="https://research.adobe.com/research/" style={{color:'#e2498a'}}><u>Adobe Research</u></a> Bangalore as Summer Research Intern!</li>
+                    <li><span style={{color:'black', backgroundColor:'#ffdab9'}}>May 2021:</span> Joined <a href="https://research.adobe.com/research/" style={{color:'#e2498a'}}><u>Adobe Research</u></a> Bangalore as Summer Research Intern!</li>
                     <li><span style={{color:'black', backgroundColor:'#ffefd5'}}>Apr 2021:</span> Completed the research fellowship at MPI-SWS, see my informal presentation <a href="https://drive.google.com/file/d/1kM9qTqSy-AouZm8gXWr2uNjmyZ3PqVsK/view?usp=sharing" style={{color:'#e2498a'}}><u>here</u></a></li>
                     <li><span style={{color:'black', backgroundColor:'#ffdab9'}}>Jan 2021:</span>  Joined <a href="https://mpi-sws.org/" style={{color:'#e2498a'}}><u>MPI-SWS</u></a> as a part-time research fellow, under supervision of <a href="https://people.mpi-sws.org/~eva/" style={{color:'#e2498a'}}><u>Eva Darulova</u></a></li>
                     <li><span style={{color:'black', backgroundColor:'#ffefd5'}}>July 2020:</span> Appointed as the coordinator of the <a href="https://tnp.iitd.ac.in/ocs/department.php" style={{color:'#e2498a'}}><u>Nucleus Team(OCS)</u></a>, Dept. of Mathematics IIT Delhi</li>

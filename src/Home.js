@@ -29,7 +29,7 @@ const Styles = styled.div`
   }
 
   .hackerrank:hover {
-    color: #5edc1f;
+    color: #4dc247;
   }
 
   .github:hover {

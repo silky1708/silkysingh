@@ -11,20 +11,20 @@ class Page8 extends React.Component{
         return (
             <Styles>
                 <div className="container-fluid p-2">
-                    <div className="col-md-1"></div>
-                    <div className="text-center font-weight-bold text-center my-2">
-                        <h3 style={{color: '#000000'}}>Why do we want to be perfect?</h3>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                             Lorem Ipsum has been the
-                             industry's standard dummy text ever since the 1500s, when an unknown printer
-                              took a galley of type and scrambled it to make a type specimen book.
-                               It has survived not only five centuries, but also the leap into electronic
-                                typesetting, remaining essentially unchanged. It was popularised in the 1960s
-                                 with the release of Letraset sheets containing Lorem Ipsum passages, and
-                                  more recently with desktop publishing software like Aldus PageMaker 
-                                  including versions of Lorem Ipsum.</p>
+                <div className="row no-gutters justify-content-center align-items-center">
+                        <div className="col-md-3"></div>
+                        <div className="col-md-6 my-2">
+                            <h2 className="p-1" style={{color: '#000000', backgroundColor:'yellow'}}>Why do we want to be perfect?</h2>
+                            <br/>
+                            <span style={{color:'blue', fontWeight:'bold'}}>Psych./</span>
+                            <br/><br/>
+                            <p style={{color: '#000000', fontSize:'1.1em'}}>
+                                It'll be relatable for those who have tendency to make things perfect. Thinking
+                                about it: Nature itself is imperfect. Then why should we be perfect?
+                            </p>
+                        </div>
+                        <div className="col-md-3"></div>
                     </div>
-                    <div className="col-md-1"></div>
                 </div>
             </Styles>
         )
