@@ -6,6 +6,7 @@ import About from './components/About.js';
 import Blog from './components/Blog.js';
 import Misc from './components/Misc.js';
 import Resume from './components/Resume.js';
+import Projects from './components/Projects.js';
 
 import Page1 from './misc/1.js';
 import Page2 from './misc/2.js';
@@ -36,6 +37,8 @@ ReactDOM.render(
         <Route exact path="/silkysingh/resume" component={Resume}/>
         <Route exact path="/silkysingh/misc" component={Misc}/>
         <Route exact path="/silkysingh/blog" component={Blog}/>
+        <Route exact path="/silkysingh/projects" component={Projects}/>
+
 
         <Route exact path="/silkysingh/misc/_1" component={Page1}/>
         <Route exact path="/silkysingh/misc/_2" component={Page2}/>

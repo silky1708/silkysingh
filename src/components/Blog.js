@@ -25,7 +25,7 @@ class Blog extends React.Component{
                         
                     </div>
                 </div>
-                <Footer/>
+                {/* <Footer/> */}
             </Styles>
         )}}
 export default Blog;

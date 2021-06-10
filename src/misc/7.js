@@ -6,6 +6,7 @@ const Styles = styled.div`
 font-family: "Georgia", sans-serif;
 `;
 
+
 class Page7 extends React.Component{
     render(){
         return (

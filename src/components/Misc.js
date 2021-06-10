@@ -49,7 +49,7 @@ class Misc extends React.Component{
                     </div>
                     </div>
                 </div>
-                <Footer/>
+                {/* <Footer/> */}
             </Styles>
         )}}
 export default Misc;

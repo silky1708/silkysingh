@@ -35,6 +35,10 @@ class Navbar extends React.Component{
                   <NavLink to="/silkysingh/about" style={{color:'white', textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
                     <div className="navbar col-md-1 text-center">About</div>
                   </NavLink>
+
+                  <NavLink to="/silkysingh/projects" style={{color:'white',textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
+                    <div className="navbar col-md-1 text-center">Projects</div>
+                  </NavLink>
                   
                   {/* <a href="https://drive.google.com/file/d/1H5-jF4THJVzlFT-216PEFm72EC8hg9IJ/view?usp=sharing" style={{color:'white',textDecoration: 'none'}}>
                     <div className="navbar col-md-1 text-center">Resumé</div>
@@ -45,6 +49,8 @@ class Navbar extends React.Component{
                   <NavLink to="/silkysingh/blog" style={{color:'white',textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
                     <div className="navbar col-md-1 text-center">Blog</div>
                   </NavLink>
+
+                  
 
               </div>
             </div>
