@@ -24,7 +24,11 @@ class About extends React.Component{
                      </div>
                 <div className="row p-2 no-gutters">
                     <div className="col-md-4 d-flex justify-content-center pt-5">
+                        <div className="pic">
                         <Image src={mypic} style={{height:'130px', width:'130px'}} className="shadow" roundedCircle/>
+                        <br/>
+                        Haridwar, 2019.
+                        </div>
                
                     </div>
                     <div className="col-md-6 m-1 p-4">

@@ -16,6 +16,9 @@ import Page5 from './misc/5.js';
 import Page6 from './misc/6.js';
 import Page7 from './misc/7.js';
 import Page8 from './misc/8.js';
+import Page9 from './misc/9.js';
+import Page10 from './misc/10.js';
+import Page11 from './misc/11.js';
 
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -48,6 +51,9 @@ ReactDOM.render(
         <Route exact path="/silkysingh/misc/_6" component={Page6}/>
         <Route exact path="/silkysingh/misc/_7" component={Page7}/>
         <Route exact path="/silkysingh/misc/_8" component={Page8}/>
+        <Route exact path="/silkysingh/misc/_9" component={Page9}/>
+        <Route exact path="/silkysingh/misc/_10" component={Page10}/>
+        <Route exact path="/silkysingh/misc/_11" component={Page11}/>
 
       </Switch>
     {/* <App /> */}

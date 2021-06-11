@@ -28,14 +28,14 @@ class Misc extends React.Component{
                             <li className="links"><NavLink to="/silkysingh/misc/_1" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>git cheatsheet</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'orange'}}/></li>
                             <li className="links"><NavLink to="/silkysingh/misc/_2" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Linear Algebra basics for ML/DL</NavLink></li>
                             <li className="links"><NavLink to="/silkysingh/misc/_3" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Understanding Flask-based server</NavLink></li>
-                            <li className="links"><NavLink to="/silkysingh/misc/_4" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Eye witnesses are not always right!</NavLink></li>
+                            <li className="links"><NavLink to="/silkysingh/misc/_4" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Eye witnesses are not always right!</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'yellow'}}/></li>
                             <li className="links"><NavLink to="/silkysingh/misc/_5" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Softmax activation function</NavLink></li>
-                            <li className="links"><NavLink to="/silkysingh/misc/_6" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Serial Position Effect</NavLink></li>
+                            <li className="links"><NavLink to="/silkysingh/misc/_6" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Serial Position Effect</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'yellow'}}/></li>
                             <li className="links"><NavLink to="/silkysingh/misc/_7" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Bystander apathy</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'yellow'}}/></li>
                             <li className="links"><NavLink to="/silkysingh/misc/_8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Why do we want to be perfect?</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'yellow'}}/></li>
                             <li className="links"><NavLink to="/silkysingh/misc/_9" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Markov Decision Processes</NavLink></li>
                             <li className="links"><NavLink to="/silkysingh/misc/_10" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Tensorflow</NavLink></li>
-                            <li className="links"><NavLink to="/silkysingh/misc/_11" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Javascript</NavLink></li>
+                            <li className="links"><NavLink to="/silkysingh/misc/_11" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Book Review: And Then There Were None</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'blue'}}/> </li>
                             
                             
                         
