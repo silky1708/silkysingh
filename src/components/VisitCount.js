@@ -1,7 +1,7 @@
 import React from 'react';
 import {GrView} from 'react-icons/gr';
 
-
+// this is wrong!!
 class VisitCount extends React.Component{
     constructor(props){
         super(props)
