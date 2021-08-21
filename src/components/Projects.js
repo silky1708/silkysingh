@@ -28,11 +28,54 @@ class Projects extends React.Component{
                         <div className="col-md-2"></div>
                         <div className="col-md-7 my-2">
                             {/* <h2 className="p-1" style={{color: '#000000'}}>Projects</h2> */}
-                            I've been lucky to work on these exciting projects:
                             <br/>
+                            A list of my selected projects:
                             {/* <span style={{color:'blue', fontWeight:'bold'}}>Projects./</span> */}
-                            <br/><br/>
+                            <br/>
+                            <br/>
                             <ul>
+                                <li>
+                                    <div className="row no-gutters w-100 d-flex align-items-center">
+                                        <div className="pro-name col-sm-9 text-left">
+                                            <span className="georgia" style={{color:'#9b111e'}}>
+                                            <em><h4><u>Testing Deep Neural Networks</u></h4>
+                                            with <a href="https://subodhvsharma.github.io" style={{color:"#9b111e"}}><u>Prof. Subodh Sharma</u></a>, IIT Delhi
+                                            </em>
+                                            </span>
+                                            <br/>
+                                            <br/>
+                                            - Part of MTD350 Mini Project
+                                        </div>
+                                        <div className="pro-dates col-sm-3 text-right">
+                                            <bold><h5>Aug 2021<br/> -present</h5></bold>
+                                        </div>
+                                    </div>
+                                </li>
+                                <br/>
+                                <br/>
+
+                                <li>
+                                    <div className="row no-gutters w-100 d-flex align-items-center">
+                                        <div className="pro-name col-sm-9 text-left">
+                                            <span className="georgia" style={{color:'#9b111e'}}>
+                                            <em><h4><u>Image Editing</u></h4>
+                                            (as a part of my internship at Adobe Research)
+                                            </em>
+                                            </span>
+                                            <br/>
+                                            <br/>
+                                            - Mentors: <a href="https://kuldeepkulkarni.github.io" style={{color:'#9b111e'}}><u>Kuldeep Kulkarni</u></a>, Aniruddha Mahapatra, Paridhi Maheshwari
+                                            <br/>
+                                            - Continuing as COD310 Mini Project(Aug 2021-)
+                                        </div>
+                                        <div className="pro-dates col-sm-3 text-right">
+                                            <bold><h5>May 2021<br/> -Aug 2021</h5></bold>
+                                        </div>
+                                    </div>
+                                </li>
+                                <br/>
+                                <br/>
+
                                 <li>
                                     <div className="row no-gutters w-100 d-flex align-items-center">
                                         <div className="pro-name col-sm-8 text-left">
@@ -62,20 +105,18 @@ class Projects extends React.Component{
                                     <div className="row no-gutters w-100 d-flex align-items-center">
                                         <div className="pro-name col-sm-9 text-left">
                                             <span className="georgia" style={{color:'#9b111e'}}><em>
-                                            <h4><u>Build the front-end of a website using ReactJS</u></h4>
+                                            <h4><u>Front-end development using ReactJS</u></h4>
                                             (as a part of my internship at MateRate Education Pvt. Ltd.)
                                             </em>
                                             </span>
                                             <br/>
                                             <br/>
-                                            - Was part of the web development team, headed by Shivam Jain.
+                                            - Was part of the web development team.
                                             <br/>
                                             - Extensively worked with the ReactJS framework, Bootstrap5, JavaScript to build the front-end for Math-MateRate
                                             <br/>
-                                            - Also experimented with a lot of animations, various react modules(such as for graphical representations) and
+                                            - Also experimented with animations, various react modules(such as for graphical representations) and
                                             made the webpages responsive.
-
-
                                         </div>
                                         <div className="pro-dates col-sm-3 text-right">
                                             <bold><h5>May 2020<br/> -July 2020</h5></bold>
@@ -89,7 +130,7 @@ class Projects extends React.Component{
                                     <div className="row no-gutters w-100 d-flex align-items-center">
                                         <div className="pro-name col-sm-9 text-left">
                                             <span className="georgia" style={{color:'#9b111e'}}>
-                                            <em><h4><u>Algorithms research</u></h4>
+                                            <em><h4><u>Algorithms & Graphs</u></h4>
                                             with <a href="https://web.iitd.ac.in/~minati/" style={{color:"#9b111e"}}><u>Prof. Minati De</u></a>, IIT Delhi
                                             </em>
                                             </span>
@@ -108,6 +149,8 @@ class Projects extends React.Component{
                                         </div>
                                     </div>
                                 </li>
+
+                                
                             </ul>
 
                             <br/>

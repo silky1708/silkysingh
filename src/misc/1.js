@@ -14,7 +14,7 @@ class Page1 extends React.Component{
                     <div className="row no-gutters justify-content-center align-items-center">
                         <div className="col-md-2"></div>
                         <div className="col-md-8 my-2">
-                            <h2 className="p-1" style={{color: '#000000', backgroundColor:'orange'}}>git cheatsheet</h2>
+                            <h2 className="p-1" style={{color: '#000000'}}>git cheatsheet</h2>
                             <br/>
                             <span style={{color:'blue', fontWeight:'bold'}}>tech./</span>
                             <br/><br/>

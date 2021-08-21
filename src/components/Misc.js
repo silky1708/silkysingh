@@ -33,9 +33,9 @@ class Misc extends React.Component{
                             <li className="links"><NavLink to="/silkysingh/misc/_6" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Serial Position Effect</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'yellow'}}/></li>
                             <li className="links"><NavLink to="/silkysingh/misc/_7" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Bystander apathy</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'yellow'}}/></li>
                             <li className="links"><NavLink to="/silkysingh/misc/_8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Why do we want to be perfect?</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'yellow'}}/></li>
-                            <li className="links"><NavLink to="/silkysingh/misc/_9" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Markov Decision Processes</NavLink></li>
-                            <li className="links"><NavLink to="/silkysingh/misc/_10" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Tensorflow</NavLink></li>
-                            <li className="links"><NavLink to="/silkysingh/misc/_11" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Book Review: And Then There Were None</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'blue'}}/> </li>
+                            <li className="links"><NavLink to="/silkysingh/misc/_9" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Markov Decision Processes</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'green'}}/></li>
+                            <li className="links"><NavLink to="/silkysingh/misc/_10" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Book Review: And Then There Were None</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'blue'}}/> </li>
+                            <li className="links"><NavLink to="/silkysingh/misc/_11" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Fano Plane</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'green'}}/> </li>
                             
                             
                         
