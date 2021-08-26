@@ -13,10 +13,10 @@ class Page10 extends React.Component{
                 <div className="container-fluid p-2">
                 <div className="row no-gutters justify-content-center align-items-center">
                         <div className="col-md-3"></div>
-                        <div className="col-md-6 my-2">
-                            <h2 className="p-1" style={{color: '#000000', backgroundColor:'#87ceeb'}}>And Then There Were None</h2>
+                        <div className="col-md-6">
+                            <h2 className="p-2" style={{color: '#ffffff', backgroundColor:'#000000'}}>And Then There Were None</h2>
                             <br/>
-                            <span style={{color:'blue', fontWeight:'bold'}}>Book Reviews./</span>
+                            <span style={{color:'blue', fontWeight:'bold'}}>Book Reviews/June 2021</span>
                             <br/><br/>
                             <p style={{color: '#000000', fontSize:'1.1em'}}>
                                 I recently finished reading the Agatha Christie's masterpiece "And Then There Were None".

@@ -19,6 +19,7 @@ import Page8 from './misc/8.js';
 import Page9 from './misc/9.js';
 import Page10 from './misc/10.js';
 import Page11 from './misc/11.js';
+import Page12 from './misc/12.js';
 
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -54,6 +55,7 @@ ReactDOM.render(
         <Route exact path="/silkysingh/misc/_9" component={Page9}/>
         <Route exact path="/silkysingh/misc/_10" component={Page10}/>
         <Route exact path="/silkysingh/misc/_11" component={Page11}/>
+        <Route exact path="/silkysingh/misc/_12" component={Page12}/>
 
       </Switch>
     {/* <App /> */}
