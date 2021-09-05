@@ -34,24 +34,41 @@ class About extends React.Component{
                     <div className="col-md-6 m-1 p-4">
                     {/* shadow bg-white rounded */}
                         <p><br/>
-                        My name is Silky Singh. I'm now a senior undergrad at <a href="https://home.iitd.ac.in/" style={{color:'#e2498a'}}><u>IIT Delhi</u></a>, 
-                        pursuing a major in Mathematics and Computing. 
+                        <h4>Who am I?</h4>
+                        My name is Silky Singh(you should know by now!). I'm a senior undergrad at the <a href="https://home.iitd.ac.in/" style={{color:'#e2498a'}}><u>Indian Institute of Technology Delhi</u></a>, 
+                        doing my Bachelor's in Mathematics and Computing.
                         <br/><br/>
-                        Now, how did this website take shape? I was tinkering with web designs {'&'} front-end development.
-                        I realized this is somewhere I can put my imagination to work. Also, I like building things from scratch so that I know every nook and corner of it.
-                        It's also good to have a place where I can put notes for myself:)
+                        The picture on the left, is me trying to click a selfie on a mini roller-coaster ride when I was in Haridwar spending the mid-semester break.
                         <br/><br/>
-                        There are some things I'm curious about, I will try to put them in the Misc. section. Or randomly, anything from
-                        my class notes I find interesting or took time for me to understand. Caution: Please note that these will be mostly based on my
-                        own taste or style so take these with a pinch of salt.
+                        <h4>What's the point of this website?</h4>
+                        
+                        It's good to have a place where I can put notes for myself:)
+                        <br/><br/>
+                        There are some things(a lot!) I'm curious about- life philosophy, human behavior, how to get famous?, how do large companies function? etc. 
+                        I will try to put my thoughts on these in the Misc. section. Or randomly, anything from
+                        my class notes I find interesting or took time for me to understand.
+                        <br/><br/>
+                        <h4>Reach Out</h4>
+                        The best way to reach out to me is by email, I look at my emails atleast once a day: <a href="mailto:silky1708@gmail.com" style={{color:'#e2498a'}}><u>silky1708@gmail.com</u></a>. I occasionally
+                        open my <a href="https://www.linkedin.com/in/silky-singh-29578518b/" style={{color:'#e2498a'}}><u>LinkedIn</u></a> too.
+                        
+                        <br/><br/>
+                        <h4>Some Facts About Me</h4>
+                        <ol>
+                        <li>My favorite color is Orange!</li>
+                        <li>Born on a Thursday, August 17.</li>
+                        <li>My Nana still sees more value in the Civil Services than my engineering degree.</li>
+                        <li>I was born(in Gorakhpur) and raised in Deoria, a town in the state of Uttar Pradesh, India.</li>
+                        <li>I try to follow the American English(since the words have lesser alphabets than the British English words).</li>
+                        <li>In my free time, I like to read books(mostly fiction & thrillers; paperbacks preferable, not necessary), get inspired
+                            & work on this website or simply think.</li>
+                        <li>I am not on Instagram or Twitter, and I emptied my Facebook in 2020.</li>
+                        </ol>
+                        </p>
 
                         <br/><br/>
-                        I'll use the blog section to share some experiences or simply explain a concept in detail(unlike Misc.). With
-                        this purpose in mind, let's see how the blog shapes up! If you find any bugs or have any suggestion, do drop
-                        me an email: <a href="mailto:silky1708@gmail.com" style={{color:'#e2498a'}}><u>silky1708@gmail.com</u></a>
-                        
-                        <br/>
-                        </p>
+                        <h4>What I'm doing now?</h4>
+                        I'm currently studying for my 7th semester mostly. 
                     </div>
                     <div className="col-md-2"></div>
                 </div>

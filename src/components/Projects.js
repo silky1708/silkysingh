@@ -27,10 +27,9 @@ class Projects extends React.Component{
                 <div className="row no-gutters justify-content-center align-items-center">
                         <div className="col-md-2"></div>
                         <div className="col-md-7 my-2">
-                            {/* <h2 className="p-1" style={{color: '#000000'}}>Projects</h2> */}
                             <br/>
-                            A list of my selected projects:
-                            {/* <span style={{color:'blue', fontWeight:'bold'}}>Projects./</span> */}
+                            <em>"Research is formalized curiosity. It is poking and prying with a purpose."</em> 
+                            
                             <br/>
                             <br/>
                             <ul>
@@ -64,12 +63,13 @@ class Projects extends React.Component{
                                             </span>
                                             <br/>
                                             <br/>
-                                            - Mentors: <a href="https://kuldeepkulkarni.github.io" style={{color:'#9b111e'}}><u>Kuldeep Kulkarni</u></a>, Aniruddha Mahapatra, Paridhi Maheshwari
+                                            - Mentors: <a href="https://kuldeepkulkarni.github.io" style={{color:'#9b111e'}}><u>Kuldeep Kulkarni</u></a>, Aniruddha Mahapatra
                                             <br/>
                                             - Continuing as COD310 Mini Project(Aug 2021-)
                                         </div>
                                         <div className="pro-dates col-sm-3 text-right">
                                             <bold><h5>May 2021<br/> -Aug 2021</h5></bold>
+                                            <bold><h5>Aug 2021<br/> -present</h5></bold>
                                         </div>
                                     </div>
                                 </li>
