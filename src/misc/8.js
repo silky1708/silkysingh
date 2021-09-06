@@ -19,8 +19,7 @@ class Page8 extends React.Component{
                             <span style={{color:'blue', fontWeight:'bold'}}>Psych./</span>
                             <br/><br/>
                             <p style={{color: '#000000', fontSize:'1.1em'}}>
-                                It'll be relatable for those who have tendency to make things perfect. Thinking
-                                about it: Nature itself is imperfect. Then why should we be perfect?
+                                Nature itself is imperfect. Then why should we be?
                             </p>
                         </div>
                         <div className="col-md-3"></div>

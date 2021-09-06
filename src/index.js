@@ -8,6 +8,7 @@ import Misc from './components/Misc.js';
 import Resume from './components/Resume.js';
 import Projects from './components/Projects.js';
 
+// General Misc. Links
 import Page1 from './misc/1.js';
 import Page2 from './misc/2.js';
 import Page3 from './misc/3.js';
@@ -20,6 +21,16 @@ import Page9 from './misc/9.js';
 import Page10 from './misc/10.js';
 import Page11 from './misc/11.js';
 import Page12 from './misc/12.js';
+import Page13 from './misc/13.js';
+import Page14 from './misc/14.js';
+import Page15 from './misc/15.js';
+import Page16 from './misc/16.js';
+
+// Books
+import Book1 from './misc/books/1.js';
+import Book2 from './misc/books/2.js';
+import Book3 from './misc/books/3.js';
+import Book4 from './misc/books/4.js';
 
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -43,7 +54,7 @@ ReactDOM.render(
         <Route exact path="/silkysingh/blog" component={Blog}/>
         <Route exact path="/silkysingh/projects" component={Projects}/>
 
-
+        {/* Misc. links */}
         <Route exact path="/silkysingh/misc/_1" component={Page1}/>
         <Route exact path="/silkysingh/misc/_2" component={Page2}/>
         <Route exact path="/silkysingh/misc/_3" component={Page3}/>
@@ -56,6 +67,17 @@ ReactDOM.render(
         <Route exact path="/silkysingh/misc/_10" component={Page10}/>
         <Route exact path="/silkysingh/misc/_11" component={Page11}/>
         <Route exact path="/silkysingh/misc/_12" component={Page12}/>
+        <Route exact path="/silkysingh/misc/_13" component={Page13}/>
+        <Route exact path="/silkysingh/misc/_14" component={Page14}/>
+        <Route exact path="/silkysingh/misc/_15" component={Page15}/>
+        <Route exact path="/silkysingh/misc/_16" component={Page16}/>
+
+        {/* Bookshelf links */}
+        <Route exact path="/silkysingh/misc/books/section_3/1" component={Book1}/>
+        <Route exact path="/silkysingh/misc/books/section_3/2" component={Book2}/>
+        <Route exact path="/silkysingh/misc/books/section_3/3" component={Book3}/>
+        <Route exact path="/silkysingh/misc/books/section_3/4" component={Book4}/>
+
 
       </Switch>
     {/* <App /> */}

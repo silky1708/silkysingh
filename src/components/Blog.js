@@ -19,13 +19,13 @@ class Blog extends React.Component{
                 </div>
                 <div className="row no-gutters p-2">
                     <div className="col-md-5 p-2">
-                    <Image src={koala} style={{height:'150', width:'200'}} className="shadow p-3 mb-5 bg-white rounded"/>
+                    <Image src={koala} style={{height:'150', width:'200'}} className="shadow"/>
                     </div>
                     <div className="col-md-auto p-2">
                         
                     </div>
                 </div>
-                {/* <Footer/> */}
+                <Footer/>
             </Styles>
         )}}
 export default Blog;

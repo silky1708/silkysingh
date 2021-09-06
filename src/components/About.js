@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
 import styled from 'styled-components';
-import Image from 'react-bootstrap/Image'
+import Image from 'react-bootstrap/Image';
 import mypic from '../images/about_me.png';
 
 const Styles = styled.div`
@@ -68,7 +68,8 @@ class About extends React.Component{
 
                         <br/><br/>
                         <h4>What I'm doing now?</h4>
-                        I'm currently studying for my 7th semester mostly. 
+                        I'm studying for my 7th semester most of the time. Sometimes, I come here to update the
+                        Misc. section. 
                     </div>
                     <div className="col-md-2"></div>
                 </div>
