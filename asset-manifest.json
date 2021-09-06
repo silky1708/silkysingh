@@ -1,29 +1,33 @@
 {
   "files": {
     "main.css": "/silkysingh/static/css/main.d7cbc65e.chunk.css",
-    "main.js": "/silkysingh/static/js/main.360f8b3d.chunk.js",
-    "main.js.map": "/silkysingh/static/js/main.360f8b3d.chunk.js.map",
-    "runtime-main.js": "/silkysingh/static/js/runtime-main.0ac18f5e.js",
-    "runtime-main.js.map": "/silkysingh/static/js/runtime-main.0ac18f5e.js.map",
+    "main.js": "/silkysingh/static/js/main.3640fac6.chunk.js",
+    "main.js.map": "/silkysingh/static/js/main.3640fac6.chunk.js.map",
+    "runtime-main.js": "/silkysingh/static/js/runtime-main.58cf22e0.js",
+    "runtime-main.js.map": "/silkysingh/static/js/runtime-main.58cf22e0.js.map",
     "static/css/2.150d169a.chunk.css": "/silkysingh/static/css/2.150d169a.chunk.css",
-    "static/js/2.14eb0fc0.chunk.js": "/silkysingh/static/js/2.14eb0fc0.chunk.js",
-    "static/js/2.14eb0fc0.chunk.js.map": "/silkysingh/static/js/2.14eb0fc0.chunk.js.map",
-    "static/js/3.ec2d91d5.chunk.js": "/silkysingh/static/js/3.ec2d91d5.chunk.js",
-    "static/js/3.ec2d91d5.chunk.js.map": "/silkysingh/static/js/3.ec2d91d5.chunk.js.map",
+    "static/js/2.15d00a83.chunk.js": "/silkysingh/static/js/2.15d00a83.chunk.js",
+    "static/js/2.15d00a83.chunk.js.map": "/silkysingh/static/js/2.15d00a83.chunk.js.map",
+    "static/js/3.864e1073.chunk.js": "/silkysingh/static/js/3.864e1073.chunk.js",
+    "static/js/3.864e1073.chunk.js.map": "/silkysingh/static/js/3.864e1073.chunk.js.map",
     "index.html": "/silkysingh/index.html",
     "static/css/2.150d169a.chunk.css.map": "/silkysingh/static/css/2.150d169a.chunk.css.map",
     "static/css/main.d7cbc65e.chunk.css.map": "/silkysingh/static/css/main.d7cbc65e.chunk.css.map",
-    "static/js/2.14eb0fc0.chunk.js.LICENSE.txt": "/silkysingh/static/js/2.14eb0fc0.chunk.js.LICENSE.txt",
+    "static/js/2.15d00a83.chunk.js.LICENSE.txt": "/silkysingh/static/js/2.15d00a83.chunk.js.LICENSE.txt",
     "static/media/about_me.7bca6400.png": "/silkysingh/static/media/about_me.7bca6400.png",
     "static/media/fano.f6eed452.png": "/silkysingh/static/media/fano.f6eed452.png",
+    "static/media/girlonthetrain.36c98640.jpg": "/silkysingh/static/media/girlonthetrain.36c98640.jpg",
     "static/media/koala.78804a69.jpg": "/silkysingh/static/media/koala.78804a69.jpg",
-    "static/media/silky_18.aa92f952.png": "/silkysingh/static/media/silky_18.aa92f952.png"
+    "static/media/murderontheorientexpress.75943814.jpg": "/silkysingh/static/media/murderontheorientexpress.75943814.jpg",
+    "static/media/origin.0dca53fe.jpg": "/silkysingh/static/media/origin.0dca53fe.jpg",
+    "static/media/silky_18.aa92f952.png": "/silkysingh/static/media/silky_18.aa92f952.png",
+    "static/media/therewerenone.e495858d.jpg": "/silkysingh/static/media/therewerenone.e495858d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ac18f5e.js",
+    "static/js/runtime-main.58cf22e0.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.14eb0fc0.chunk.js",
+    "static/js/2.15d00a83.chunk.js",
     "static/css/main.d7cbc65e.chunk.css",
-    "static/js/main.360f8b3d.chunk.js"
+    "static/js/main.3640fac6.chunk.js"
   ]
 }
