@@ -35,7 +35,7 @@ class About extends React.Component{
                     {/* shadow bg-white rounded */}
                         <p><br/>
                         <h4>Who am I?</h4>
-                        My name is Silky Singh(you should know by now!). I'm a senior undergrad at the <a href="https://home.iitd.ac.in/" style={{color:'#e2498a'}}><u>Indian Institute of Technology Delhi</u></a>, 
+                        My name is Silky Singh. I'm a senior undergrad at the <a href="https://home.iitd.ac.in/" style={{color:'#e2498a'}}><u>Indian Institute of Technology Delhi</u></a>, 
                         doing my Bachelor's in Mathematics and Computing.
                         <br/><br/>
                         The picture on the left, is me trying to click a selfie on a mini roller-coaster ride when I was in Haridwar spending the mid-semester break.
@@ -49,7 +49,7 @@ class About extends React.Component{
                         my class notes I find interesting or took time for me to understand.
                         <br/><br/>
                         <h4>Reach Out</h4>
-                        The best way to reach out to me is by email, I look at my emails atleast once a day: <a href="mailto:silky1708@gmail.com" style={{color:'#e2498a'}}><u>silky1708@gmail.com</u></a>. I occasionally
+                        The best way to reach out to me is via email, I look at my emails at least once a day: <a href="mailto:silky1708@gmail.com" style={{color:'#e2498a'}}><u>silky1708@gmail.com</u></a>. I occasionally
                         open my <a href="https://www.linkedin.com/in/silky-singh-29578518b/" style={{color:'#e2498a'}}><u>LinkedIn</u></a> too.
                         
                         <br/><br/>
@@ -57,8 +57,7 @@ class About extends React.Component{
                         <ol>
                         <li>My favorite color is Orange!</li>
                         <li>Born on a Thursday, August 17.</li>
-                        <li>My Nana still sees more value in the Civil Services than my engineering degree.</li>
-                        <li>I was born(in Gorakhpur) and raised in Deoria, a town in the state of Uttar Pradesh, India.</li>
+                        <li>My Nana sees more value in the Civil Services than my engineering degree.</li>
                         <li>I try to follow the American English(since the words have lesser alphabets than the British English words).</li>
                         <li>In my free time, I like to read books(mostly fiction & thrillers; paperbacks preferable, not necessary), get inspired
                             & work on this website or simply think.</li>
@@ -69,7 +68,7 @@ class About extends React.Component{
                         <br/><br/>
                         <h4>What I'm doing now?</h4>
                         I'm studying for my 7th semester most of the time. Sometimes, I come here to update the
-                        Misc. section. 
+                        Misc. section.
                     </div>
                     <div className="col-md-2"></div>
                 </div>

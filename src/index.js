@@ -31,6 +31,7 @@ import Book1 from './misc/books/1.js';
 import Book2 from './misc/books/2.js';
 import Book3 from './misc/books/3.js';
 import Book4 from './misc/books/4.js';
+import Book5 from './misc/books/5.js';
 
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -77,6 +78,7 @@ ReactDOM.render(
         <Route exact path="/silkysingh/misc/books/section_3/2" component={Book2}/>
         <Route exact path="/silkysingh/misc/books/section_3/3" component={Book3}/>
         <Route exact path="/silkysingh/misc/books/section_3/4" component={Book4}/>
+        <Route exact path="/silkysingh/misc/books/section_3/5" component={Book5}/>
 
 
       </Switch>

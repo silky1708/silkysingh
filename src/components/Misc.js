@@ -60,12 +60,13 @@ class Misc extends React.Component{
                         <br/> */}
                         <h4>Currently Reading <ImBooks style={{color:'red'}}/></h4><br/>
                         <ol>
-                            <li>Ikigai</li>
-                            <li>Psychology of Money</li>
+                            <li>Ikigai <em>by Yukari Mitsuhashi</em></li>
+                            <li>The Psychology of Money <em>by Morgan Housel</em></li>
                         </ol>
                         <br/>
                         <h4>Read & Enjoyed <ImBooks style={{color:'green'}}/></h4><br/>
                         <ol>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/5" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>The Inimitable Jeeves</NavLink> <em>by P. G. Wodehouse</em></li>
                         <li className="links"><NavLink to="/silkysingh/misc/books/section_3/1" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Murder on the Orient Express</NavLink> <em>by Agatha Christie</em></li>
                         <li className="links"><NavLink to="/silkysingh/misc/books/section_3/2" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>And Then There Were None</NavLink> <em>by Agatha Christie</em></li>
                         <li className="links"><NavLink to="/silkysingh/misc/books/section_3/3" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Origin</NavLink> <em>by Dan Brown</em></li>
