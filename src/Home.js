@@ -8,6 +8,7 @@ import {SiGmail} from 'react-icons/si';
 import {FaGithub} from 'react-icons/fa';
 import {FaHackerrank} from 'react-icons/fa';
 import {FaYoutube} from 'react-icons/fa';
+import {SiLeetcode} from 'react-icons/si';
 // import VisitCount from './components/VisitCount';
 import styled from 'styled-components';
 // import {NavLink} from 'react-router-dom';
@@ -35,6 +36,10 @@ const Styles = styled.div`
   .github:hover {
     color: #211f1f;
   }
+
+  .leetcode:hover {
+    color: #ffbf00;
+  }
 `;
 
 
@@ -61,6 +66,9 @@ function App() {
               </div>
               <div className="px-1">
               <a href='https://www.hackerrank.com/silky1708' style={{textDecoration:'None', color: '#e2498a', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaHackerrank size={20} className="hackerrank"/></a>
+              </div>
+              <div className="px-1">
+                <a href="https://leetcode.com/silky1708/" style={{textDecoration:'None', color: '#e2498a', opacity:'1'}}><SiLeetcode size={20} className="leetcode"/></a>
               </div>
               <div className="px-1">
               <a href='https://www.youtube.com/channel/UCZ9VXq-hlbZHVVbdXlddJ_g' style={{textDecoration:'None', color: '#e2498a', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaYoutube size={20} className="youtube"/></a>

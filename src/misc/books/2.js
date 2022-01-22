@@ -14,8 +14,8 @@ class Book2 extends React.Component{
             <Styles>
                 <div className="container-fluid p-2">
                 <div className="row no-gutters justify-content-center align-items-center">
-                        <div className="col-md-3"></div>
-                        <div className="col-md-6">
+                        <div className="col-md-4"></div>
+                        <div className="col-md-4">
                             <h2 className="p-2" style={{color: '#ffffff', backgroundColor:'#000000'}}>And Then There Were None</h2>
                             <br/>
                             <span style={{color:'blue', fontWeight:'bold'}}><em>July 2021</em></span>
@@ -33,7 +33,7 @@ class Book2 extends React.Component{
                                 each of the guest's room. I'll leave you with this, one of them is the killer: who could it be?
                             </p>
                         </div>
-                        <div className="col-md-3"></div>
+                        <div className="col-md-4"></div>
                     </div>
                 </div>
             </Styles>

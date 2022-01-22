@@ -43,10 +43,11 @@ class Misc extends React.Component{
                             <li className="links"><NavLink to="/silkysingh/misc/_9" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Markov Decision Processes</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'orange'}}/></li>
                             <li className="links"><NavLink to="/silkysingh/misc/_10" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Fano Plane</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'orange'}}/> </li>
                             <li className="links"><NavLink to="/silkysingh/misc/_11" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>My Courses at IITD</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'orange'}}/> </li>
-                            <li className="links"><NavLink to="/silkysingh/misc/_12" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Lessons Learnt being an undergrad</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'blue'}}/> </li>
+                            {/* <li className="links"><NavLink to="/silkysingh/misc/_12" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Lessons Learnt being an undergrad</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'blue'}}/> </li> */}
                             <li className="links"><NavLink to="/silkysingh/misc/_13" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Ph.D: To do or not to do!</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'blue'}}/> </li>
                             <li className="links"><NavLink to="/silkysingh/misc/_14" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>What would happen when Earth dies?</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'blue'}}/> </li>
                             <li className="links"><NavLink to="/silkysingh/misc/_15" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Summer Internships: My Experiences</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'blue'}}/> </li>
+                            <li className="links"><NavLink to="/silkysingh/misc/_16" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Computer Networks</NavLink>&nbsp;<IoMdSquare size={20} style={{color:'orange'}}/> </li>
                             
                         </ol>
                     </div>
@@ -61,7 +62,6 @@ class Misc extends React.Component{
                         <h4>Currently Reading <ImBooks style={{color:'red'}}/></h4><br/>
                         <ol>
                             <li>Ikigai <em>by Yukari Mitsuhashi</em></li>
-                            <li>The Psychology of Money <em>by Morgan Housel</em></li>
                         </ol>
                         <br/>
                         <h4>Read & Enjoyed <ImBooks style={{color:'green'}}/></h4><br/>
@@ -71,6 +71,8 @@ class Misc extends React.Component{
                         <li className="links"><NavLink to="/silkysingh/misc/books/section_3/2" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>And Then There Were None</NavLink> <em>by Agatha Christie</em></li>
                         <li className="links"><NavLink to="/silkysingh/misc/books/section_3/3" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Origin</NavLink> <em>by Dan Brown</em></li>
                         <li className="links"><NavLink to="/silkysingh/misc/books/section_3/4" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>The Girl on the Train</NavLink> <em>by Paula Hawkins</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/6" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Surely You're Joking, Mr. Feynman</NavLink> <em>by Richard P. Feynman</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/7" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>The Psychology of Money</NavLink> <em>by Morgan Housel</em></li>
                         
                         </ol>
 

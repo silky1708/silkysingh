@@ -8,6 +8,7 @@ class News extends React.Component{
                 <div className="news text-left">
                 <h4 style={{}}><u>News</u></h4><br/>
                 <ul>
+                    <li><span style={{color:'black', backgroundColor:'#ffdab9'}}>Jan 2022:</span> Teaching Assistant for the course <span style={{color:'#e2498a'}}>Linear Algebra and Applications</span> for Spring semester, 2022</li>
                     <li><span style={{color:'black', backgroundColor:'#ffefd5'}}>Aug 2021:</span> Teaching Assistant for the course <span style={{color:'#e2498a'}}>Introduction to Computer Science</span> for Fall semester, 2021</li>
                     <li><span style={{color:'black', backgroundColor:'#ffdab9'}}>May 2021:</span> Joined <a href="https://research.adobe.com/research/" style={{color:'#e2498a'}}><u>Adobe Research</u></a> Bangalore as Summer Research Intern!</li>
                     <li><span style={{color:'black', backgroundColor:'#ffefd5'}}>Apr 2021:</span> Completed the research fellowship at MPI-SWS, see my final presentation <a href="https://drive.google.com/file/d/1kM9qTqSy-AouZm8gXWr2uNjmyZ3PqVsK/view?usp=sharing" style={{color:'#e2498a'}}><u>here</u></a></li>

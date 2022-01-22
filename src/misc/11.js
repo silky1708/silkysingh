@@ -24,6 +24,14 @@ class Page11 extends React.Component{
                                The following list will be incomplete until I graduate. 
                                
                                <br/><br/>
+                               <h3 style={{fontWeight:'bold'}}>8th semester</h3>
+                               <ul>
+                                   <li>MTL782: Data Mining</li>
+                                   <li>MTL730: Cryptography</li>
+                                   <li>MTD421: Bachelor's Thesis Project</li>
+                               </ul>
+
+                               <br/><br/>
                                <h3 style={{fontWeight:'bold'}}>7th semester</h3>
                                <ul>
                                    <li>MTL783: Theory of Computation</li>
@@ -31,7 +39,8 @@ class Page11 extends React.Component{
                                    <li>MTL712: Computational Methods for Differential Equations</li>
                                    <li>MTL744: Mathematical Theory of Coding</li>
                                    <li>MTQ310: Seminar Course on Linear Algebra</li>
-                                   <li>COD310/MTD350: Mini Projects</li>
+                                   <li>COD310: Mini Project</li>
+                                   <li>MTD350: Mini Project</li>
                                </ul>
 
                                <br/><br/>

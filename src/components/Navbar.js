@@ -46,9 +46,9 @@ class Navbar extends React.Component{
                   <NavLink to="/silkysingh/misc" style={{color:'white',textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
                     <div className="navbar col-md-1 text-center">Misc.</div>
                   </NavLink>
-                  <NavLink to="/silkysingh/blog" style={{color:'white',textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
+                  {/* <NavLink to="/silkysingh/blog" style={{color:'white',textDecoration: 'none'}} activeStyle={{color:'#e2498a',fontWeight:'bold'}}>
                     <div className="navbar col-md-1 text-center">Blog</div>
-                  </NavLink>
+                  </NavLink> */}
 
                   
 

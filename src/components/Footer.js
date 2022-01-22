@@ -11,8 +11,8 @@ class Footer extends React.Component{
         return (
             <Styles>
             <div className="row no-gutters copyright p-3" style={{background:'#DCDCDC', color:'black', marginTop:'20vh'}}>
-                <BiCopyright size={15}/> <div className="">Copyright 2021, Silky Singh. All rights reserved.</div>
-                <div className="ml-auto"><span style={{color:'gray', fontSize:'14px'}}>Last updated: Sep 2021</span></div>
+                <BiCopyright size={15}/> <div className="">Copyright 2022, Silky Singh. All rights reserved.</div>
+                <div className="ml-auto"><span style={{color:'gray', fontSize:'14px'}}>Last updated: Jan 2022</span></div>
             </div>
             </Styles>
         )}}

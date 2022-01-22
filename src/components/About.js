@@ -55,19 +55,19 @@ class About extends React.Component{
                         <br/><br/>
                         <h4>Some Facts About Me</h4>
                         <ol>
-                        <li>My favorite color is Orange!</li>
+                        <li>My favorite color is Orange.</li>
                         <li>Born on a Thursday, August 17.</li>
-                        <li>My Nana sees more value in the Civil Services than my engineering degree.</li>
-                        <li>I try to follow the American English(since the words have lesser alphabets than the British English words).</li>
-                        <li>In my free time, I like to read books(mostly fiction & thrillers; paperbacks preferable, not necessary), get inspired
+                        {/* <li>My Nana sees more value in the Civil Services than my engineering degree.</li> */}
+                        {/* <li>I try to follow the American English(since the words have lesser alphabets than the British English words).</li> */}
+                        <li>In my free time, I like to read books(mostly fiction & thrillers; paperbacks preferable), get inspired
                             & work on this website or simply think.</li>
-                        <li>I am not on Instagram or Twitter, and I emptied my Facebook in 2020.</li>
+                        {/* <li>I am not on Instagram or Twitter, and I emptied my Facebook in 2020.</li> */}
                         </ol>
                         </p>
 
                         <br/><br/>
                         <h4>What I'm doing now?</h4>
-                        I'm studying for my 7th semester most of the time. Sometimes, I come here to update the
+                        I'm studying for my 8th semester, along with completing my Bachelor's Thesis Project. Sometimes, I come here to update the
                         Misc. section.
                     </div>
                     <div className="col-md-2"></div>
