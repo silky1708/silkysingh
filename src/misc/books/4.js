@@ -15,7 +15,7 @@ class Book4 extends React.Component{
                 <div className="row no-gutters justify-content-center align-items-center">
                         <div className="col-md-3"></div>
                         <div className="col-md-6">
-                            <h2 className="p-2" style={{color: '#ffffff', backgroundColor:'#000000'}}>The Girl on the Train</h2>
+                            <h2 className="py-2" style={{}}>The Girl on the Train</h2>
                             <br/>
                             <span style={{color:'blue', fontWeight:'bold'}}><em>2020</em></span>
                             <br/><br/>
@@ -25,8 +25,16 @@ class Book4 extends React.Component{
                             </div>
 
                             <br/><br/>
-                            <p style={{color: '#000000', fontSize:'1.1em'}}>
-                                
+                            <p>
+                                A gripping psychological thriller and No. 1 bestseller.
+                            </p>
+
+                            <p>
+                                The story revolves around a girl whose daily routine involves commuting on a 
+                                train. She observes a couple, whose house is on her way. One day, she senses something 
+                                different in their behavior. What will she do? 
+
+                
                             </p>
                         </div>
                         <div className="col-md-3"></div>

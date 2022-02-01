@@ -34,8 +34,8 @@ class About extends React.Component{
                     <div className="col-md-6 m-1 p-4">
                     {/* shadow bg-white rounded */}
                         <p><br/>
-                        <h4>Who am I?</h4>
-                        My name is Silky Singh. I'm a senior undergrad at the <a href="https://home.iitd.ac.in/" style={{color:'#e2498a'}}><u>Indian Institute of Technology Delhi</u></a>, 
+                        {/* <h4>Who am I?</h4> */}
+                        I'm a senior undergrad at the <a href="https://home.iitd.ac.in/" style={{color:'#e2498a'}}><u>Indian Institute of Technology Delhi</u></a>, 
                         doing my Bachelor's in Mathematics and Computing.
                         <br/><br/>
                         The picture on the left, is me trying to click a selfie on a mini roller-coaster ride when I was in Haridwar spending the mid-semester break.
@@ -52,7 +52,7 @@ class About extends React.Component{
                         The best way to reach out to me is via email, I look at my emails at least once a day: <a href="mailto:silky1708@gmail.com" style={{color:'#e2498a'}}><u>silky1708@gmail.com</u></a>. I occasionally
                         open my <a href="https://www.linkedin.com/in/silky-singh-29578518b/" style={{color:'#e2498a'}}><u>LinkedIn</u></a> too.
                         
-                        <br/><br/>
+                        <br/><br/><br/>
                         <h4>Some Facts About Me</h4>
                         <ol>
                         <li>My favorite color is Orange.</li>
@@ -65,10 +65,10 @@ class About extends React.Component{
                         </ol>
                         </p>
 
-                        <br/><br/>
+                        <br/>
                         <h4>What I'm doing now?</h4>
-                        I'm studying for my 8th semester, along with completing my Bachelor's Thesis Project. Sometimes, I come here to update the
-                        Misc. section.
+                        I'm studying for my 8th semester, along with completing my Bachelor's Thesis Project. I am also starting with backend development in Django.
+                        The rest of the time, I am sleeping or finishing a book I started reading last year.
                     </div>
                     <div className="col-md-2"></div>
                 </div>

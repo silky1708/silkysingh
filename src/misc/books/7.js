@@ -31,7 +31,7 @@ class Book7 extends React.Component{
                                 <p>
                                     This book deals with the psychological side of creating and maintaining wealth.
                                     People tend to have different thoughts about money because of their cumulative, widely different experiences with <em>money</em>. 
-                                    Someone could be born in the middle of the 2008 Housing crisis. They'd have different opinions and say than the person who has lived
+                                    Someone could be born in the middle of the 2008 Housing crisis, they'd have different opinions than the person who has lived
                                     during the 90s tech boom.
                                 </p>
 
@@ -107,7 +107,7 @@ class Book7 extends React.Component{
                                         </em>
                                         <br/><br/>
 
-                                        <li>Reasonable > Rational</li>
+                                        <li>Reasonable {'>'} Rational</li>
                                         <em>
                                             Aim to be reasonable instead of coldly rational.
                                         </em>
@@ -122,7 +122,7 @@ class Book7 extends React.Component{
 
                                         <li>You'll Change</li>
                                         <em>
-                                            Long-term planning is harder than it seems because peopl's goals and desires change over time.
+                                            Long-term planning is harder than it seems because people's goals and desires change over time.
                                         </em>
                                         <br/><br/>
 
@@ -154,7 +154,8 @@ class Book7 extends React.Component{
 
                                         {/* <li>All Together Now</li>
                                         <li>Confessions</li> */}
-                                        The last two chapters are a summary of the whole book, and the author's own investment strategies.
+                                        The last two chapters are a summary of the whole book, and the author's own investment strategies.<br/>
+                                        Overall, a great perspective change on how wealth is built..
                                     </ol>
                                 </p>
                             </p>

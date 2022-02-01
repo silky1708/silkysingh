@@ -16,7 +16,7 @@ class Book3 extends React.Component{
                 <div className="row no-gutters justify-content-center align-items-center">
                         <div className="col-md-3"></div>
                         <div className="col-md-6">
-                            <h2 className="p-2" style={{color: '#ffffff', backgroundColor:'#000000'}}>Origin</h2>
+                            <h2 className="py-2" style={{}}>Origin</h2>
                             <br/>
                             <span style={{color:'blue', fontWeight:'bold'}}><em>2020</em></span>
                             <br/><br/>
@@ -24,10 +24,18 @@ class Book3 extends React.Component{
                             <div className="text-center justify-content-center d-flex">
                             <Image src={bookCover} style={{height:'130px', width:'130px'}} className="shadow" style={{transform: 'rotate(270deg)', height:'200px', width:'260px'}}/>
                             </div>
-                            <br/><br/>
+                            <br/><br/><br/>
                             
                             <p style={{color: '#000000', fontSize:'1.1em'}}>
-                              
+                              A revolutionary scientist, Edmund Kirsch, is about to announce to the world a
+                              great innovation- the origin of the world. There is a great hype around the event he is hosting for the same.
+                              The conspiracy theories are circulating all around. 
+                            </p>
+
+                            <p style={{color: '#000000', fontSize:'1.1em'}}>
+                                At the main event, Kirsch is shot dead. And the same people go after Robert Langdon,
+                                his friend. With the help of Kirsch's AI, Langdon determines to share Kirsch's invention with
+                                the world.
                             </p>
                         </div>
                         <div className="col-md-3"></div>

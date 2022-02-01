@@ -20,6 +20,9 @@ class Page12 extends React.Component{
                             <p style={{color: '#000000', fontSize:'1.1em'}}>
                                 <ul>
                                    <li>Don't fall for so-called seniors' advices and tips: think through it.</li>
+                                   <p>Think of it like this: If you think you are the dumbest person in the world, they might be the second most 
+                                       dumbest people..
+                                   </p>
                                    <li>No need to do what everyone else is doing.</li>
                                    <li>(will add more..)</li>
                                 </ul>

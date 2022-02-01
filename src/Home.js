@@ -9,6 +9,7 @@ import {FaGithub} from 'react-icons/fa';
 import {FaHackerrank} from 'react-icons/fa';
 import {FaYoutube} from 'react-icons/fa';
 import {SiLeetcode} from 'react-icons/si';
+// import {SiDevpost} from 'react-icons/si';
 // import VisitCount from './components/VisitCount';
 import styled from 'styled-components';
 // import {NavLink} from 'react-router-dom';
@@ -40,6 +41,10 @@ const Styles = styled.div`
   .leetcode:hover {
     color: #ffbf00;
   }
+
+  .devpost:hover {
+    color: #00003f;
+  }
 `;
 
 
@@ -70,9 +75,14 @@ function App() {
               <div className="px-1">
                 <a href="https://leetcode.com/silky1708/" style={{textDecoration:'None', color: '#e2498a', opacity:'1'}}><SiLeetcode size={20} className="leetcode"/></a>
               </div>
+              {/* <div className='px-1'>
+                <a href='https://devpost.com/silky1708?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav' style={{textDecoration:'None', color: '#e2498a', opacity:'1'}}><SiDevpost size={20} className="devpost"/></a>
+              </div> */}
               <div className="px-1">
-              <a href='https://www.youtube.com/channel/UCZ9VXq-hlbZHVVbdXlddJ_g' style={{textDecoration:'None', color: '#e2498a', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaYoutube size={20} className="youtube"/></a>
+                <a href='https://www.youtube.com/channel/UCZ9VXq-hlbZHVVbdXlddJ_g' style={{textDecoration:'None', color: '#e2498a', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><FaYoutube size={20} className="youtube"/></a>
               </div>
+
+
             </div>
         </div>
         <div className="row align-items-center p-1 mt-2 no-gutters mid-section">
