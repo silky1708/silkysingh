@@ -19,9 +19,9 @@ class Page11 extends React.Component{
                             <span style={{color:'blue', fontWeight:'bold'}}>Collection/</span>
                             <br/><br/>
                             <p style={{color: '#000000', fontSize:'1.1em'}}>
-                               A weird 2 a.m. thought led me to this page. I am now compiling all the 
-                               courses I've done so far as a part of my undergrad curriculum at IITD.
-                               The following list will be incomplete until I graduate. 
+                               Compiling all the 
+                               courses I've done during my undergrad at IITD.
+                               {/* The following list will be incomplete until I graduate.  */}
                                
                                <br/><br/>
                                <h3 style={{fontWeight:'bold'}}>8th semester</h3>

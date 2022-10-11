@@ -6,8 +6,9 @@ class News extends React.Component{
         return(
             <React.Fragment>
                 <div className="news text-left">
-                <h4 style={{}}><u>News</u></h4><br/>
+                <h4 style={{marginLeft: '20px'}}><u>News</u></h4><br/>
                 <ul>
+                    <li><span style={{color:'black', backgroundColor:'#ffefd5'}}>Jun 2022:</span> Joined <span style={{color:'#e2498a'}}>Media & Data Science Research(MDSR)</span> Lab at Adobe as a Research Associate!</li>
                     <li><span style={{color:'black', backgroundColor:'#ffdab9'}}>Jan 2022:</span> Teaching Assistant for the course <span style={{}}>Linear Algebra and Applications</span> for Spring semester, 2022!</li>
                     <li><span style={{color:'black', backgroundColor:'#ffefd5'}}>Aug 2021:</span> Teaching Assistant for the course <span style={{}}>Introduction to Computer Science</span> for Fall semester, 2021!</li>
                     <li><span style={{color:'black', backgroundColor:'#ffdab9'}}>May 2021:</span> Joined <a href="https://research.adobe.com/research/" style={{color:'#e2498a'}}><u>Adobe Research</u></a> (Bangalore) as a Research Intern!</li>

@@ -19,12 +19,17 @@ class Page12 extends React.Component{
                             <br/><br/>
                             <p style={{color: '#000000', fontSize:'1.1em'}}>
                                 <ul>
-                                   <li>Don't fall for so-called seniors' advices and tips: think through it.</li>
-                                   <p>Think of it like this: If you think you are the dumbest person in the world, they might be the second most 
-                                       dumbest people..
-                                   </p>
+                                   <li>Learn decision making. Don't go to seniors for every little thing.</li>
                                    <li>No need to do what everyone else is doing.</li>
-                                   <li>(will add more..)</li>
+                                   <li>No need to do everything that looks even a little bit attractive. Balance between 
+                                       exploring and burning out is a must.
+                                   </li>
+                                   <li>Focus on academics.</li>
+                                   <li>Everyone is as confused as you are.</li>
+                                   <li>Focus on self-improvement.</li>
+                                   <li>Anything you pick, do it well.</li>
+                                   <li>Be responsible for yourself.</li>
+                                   
                                 </ul>
                             </p>
                         </div>

@@ -37,10 +37,13 @@ class Book8 extends React.Component{
 
                             <p style={{color: '#000000', fontSize:'1.1em'}}>
                                 Morrie is dying, getting weaker day by day. He is diagnosed with ALS(Amyotrophic Lateral Sclerosis),
-                                the same disease <a href="https://en.wikipedia.org/wiki/Stephen_Hawking" style={{color:'blue'}}>Stephen Hawking</a> had.
+                                the same disease <a href="https://en.wikipedia.org/wiki/Stephen_Hawking" style={{color:'blue'}}><u>Stephen Hawking</u></a> had.
                                 He and his student sit together on tuesdays to talk about things a lot of people need clarity about:
                                 death, fear, aging, greed, marriage, family, society, forgiveness, a meaningful life, regrets, money,
                                 culture.
+                            </p>
+                            <p style={{color: '#000000', fontSize:'1.1em'}}>
+                                A wonderful read!
                             </p>
                         </div>
                         <div className="col-md-3"></div>

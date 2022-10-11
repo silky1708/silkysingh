@@ -61,7 +61,7 @@ function App() {
             <div className="col-sm-auto secondary-color">Find me here : </div>
             <div className="col-sm-auto d-flex ">
               <div className="px-1">
-                <a href='https://www.linkedin.com/in/silky-singh-29578518b/' style={{textDecoration:'None', color: '#e2498a', opacity:'1'}}><FaLinkedin size={20} className="linkedin"/></a>
+                <a href='https://www.linkedin.com/in/silky1708/' style={{textDecoration:'None', color: '#e2498a', opacity:'1'}}><FaLinkedin size={20} className="linkedin"/></a>
               </div>
               <div className="px-1">
               <a href='mailto:silky1708@gmail.com' style={{textDecoration:'None', color: '#e2498a', opacity:'1'}} activeStyle={{color:'black', opacity:'0.8'}}><SiGmail size={20} className="gmail"/></a>

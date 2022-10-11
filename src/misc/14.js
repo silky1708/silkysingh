@@ -21,7 +21,7 @@ class Page14 extends React.Component{
                             <br/><br/>
                             <p style={{color: '#000000', fontSize:'1.1em'}}>
                                 What would the universe look like if there was no earth? An unsettling question about the
-                                existence of humans.. I don't have the answer to it. 
+                                existence of humanity.. I don't have the answer to it. 
 
                                 
                             </p>

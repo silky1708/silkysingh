@@ -28,7 +28,8 @@ class Projects extends React.Component{
                         <div className="col-md-2"></div>
                         <div className="col-md-7 my-2">
                             <br/>
-                            <em>"Research is formalized curiosity. It is poking and prying with a purpose."</em> 
+                            <em>"Research is formalized curiosity. It is poking and prying with a purpose." - Zora N. Hurston</em><br/>
+                            <em>"What I cannot create, I do not understand." - R. Feynman</em>
                             
                             <br/>
                             <br/>
@@ -37,7 +38,7 @@ class Projects extends React.Component{
                                     <div className="row no-gutters w-100 d-flex align-items-center">
                                         <div className="pro-name col-sm-9 text-left">
                                             <span className="georgia" style={{color:'#9b111e'}}>
-                                            <em><h4><u>Testing Deep Neural Networks</u></h4>
+                                            <em><h4><u>Adversarial Testing of Deep Neural Networks</u></h4>
                                             with <a href="https://subodhvsharma.github.io" style={{color:"#9b111e"}}><u>Prof. Subodh Sharma</u></a>, IIT Delhi
                                             </em>
                                             </span>
@@ -46,7 +47,7 @@ class Projects extends React.Component{
                                             - Part of MTD350 Mini Project
                                         </div>
                                         <div className="pro-dates col-sm-3 text-right">
-                                            <bold><h5>Aug 2021<br/> -present</h5></bold>
+                                            <bold><h5>Aug 2021<br/> -Jan 2022</h5></bold>
                                         </div>
                                     </div>
                                 </li>
@@ -65,11 +66,11 @@ class Projects extends React.Component{
                                             <br/>
                                             - Mentors: <a href="https://kuldeepkulkarni.github.io" style={{color:'#9b111e'}}><u>Kuldeep Kulkarni</u></a>, Aniruddha Mahapatra
                                             <br/>
-                                            - Continuing as COD310 Mini Project(Aug 2021-)
+                                            - Continued as COD310 Mini Project
                                         </div>
                                         <div className="pro-dates col-sm-3 text-right">
                                             <bold><h5>May 2021<br/> -Aug 2021</h5></bold>
-                                            <bold><h5>Aug 2021<br/> -present</h5></bold>
+                                            <bold><h5>Aug 2021<br/> -Dec 2021</h5></bold>
                                         </div>
                                     </div>
                                 </li>
@@ -80,7 +81,7 @@ class Projects extends React.Component{
                                     <div className="row no-gutters w-100 d-flex align-items-center">
                                         <div className="pro-name col-sm-8 text-left">
                                             <span className="georgia" style={{color:'#9b111e'}}><em>
-                                            <h4><u>Extending enumerative synthesis approach for floating-point & real-valued programs</u></h4>
+                                            <h4><u>Enumerative synthesis of floating-point & real-valued programs</u></h4>
                                             (as a part of my internship at MPI-SWS)
                                             </em>
                                             </span>

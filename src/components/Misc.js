@@ -18,19 +18,20 @@ font-family: "Yusei Magic", sans-serif;
 }
 `;
 
+
 class Misc extends React.Component{
     render(){
         return (
             <Styles>
                 <Navbar/>
                 <div className="container-fluid">
-                    <div className="row no-gutters justify-content-center align-items-center">
-                        
-                    <div className="col-md-5 p-2">
-                        (under construction. You may find some of the links empty; figuring out how to collect & present information.)
+                    {/* align-items-center aligns vertically; justify-content-center places stuff horizontally */}
+                    <div className="row no-gutters justify-content-center">
+                    <div className="col-md-5 p-2" style={{paddingTop: '0px'}}>
+                        {/* (under construction. You may find some of the links empty; figuring out how to collect & present information.) */}
+                        <br/>
+                        <IoMdSquare size={20} style={{color:'orange'}}/>: Tech, <IoMdSquare size={20} style={{color:'yellow'}}/>: Psychology, <IoMdSquare size={20} style={{color:'blue'}}/>: Thoughts/Collection
                         <br/><br/>
-                        
-
                         <ol>
                             <li className="links"><NavLink to="/silkysingh/misc/_1" style={{color:'#000000'}} activeStyle={{color:'#e2498a'}}><IoMdSquare size={20} style={{color:'orange'}}/><span style={{textDecoration:'underline'}}> git cheatsheet</span></NavLink></li>
                             <li className="links"><NavLink to="/silkysingh/misc/_2" style={{color:'#000000'}} activeStyle={{color:'#e2498a'}}><IoMdSquare size={20} style={{color:'orange'}}/><span style={{textDecoration:'underline'}}> Linear Algebra basics for ML/DL</span></NavLink></li>
@@ -63,6 +64,9 @@ class Misc extends React.Component{
                         <ol>
                             <li>Ikigai <em>by Yukari Mitsuhashi</em></li>
                             <li>Crime and Punishment <em>by Fyodor Dostoyevsky</em></li>
+                            <li>the picture of Dorian Gray <em>by Oscar Wilde</em></li>
+                            <li>Outliers <em>by Malcom Gladwell</em></li>
+
                         </ol>
                         <br/>
                         <h4>Read & Enjoyed <ImBooks style={{color:'green'}}/></h4><br/>
@@ -75,6 +79,22 @@ class Misc extends React.Component{
                         <li className="links"><NavLink to="/silkysingh/misc/books/section_3/6" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Surely You're Joking, Mr. Feynman</NavLink> <em>by Richard P. Feynman</em></li>
                         <li className="links"><NavLink to="/silkysingh/misc/books/section_3/7" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>The Psychology of Money</NavLink> <em>by Morgan Housel</em></li>
                         <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>tuesdays with Morrie</NavLink> <em>by Mitch Albom</em></li>
+                        
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>The Silent Patient</NavLink> <em>by Alex Michaelides</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Love etc</NavLink> <em>by Julian Barnes</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Hullabaloo in the Guava Orchard</NavLink> <em>by Kiran Desai</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>38 Bahadurabad</NavLink> <em>by Zeeba Sadiq</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Moonwalking with Einstein</NavLink> <em>by Joshua Foer</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>The Mystery of the Blue Train</NavLink> <em>by Agatha Christie</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Alibaba</NavLink> <em>by Duncan Clark</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Range</NavLink> <em>by David Epstein</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Predictably Irrational</NavLink> <em>by Dan Ariely</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Norwegian Wood</NavLink> <em>by Haruki Murakami</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>So Good They Can't Ignore You</NavLink> <em>by Cal Newport</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>Men without Women</NavLink> <em>by Haruki Murakami</em></li>
+                        <li className="links"><NavLink to="/silkysingh/misc/books/section_3/8" style={{textDecoration:'underline', color:'#000000'}} activeStyle={{color:'#e2498a'}}>The Great Gatsby</NavLink> <em>by F. Scott Fitzgerald</em></li>
+                        
+                        
                         
                         </ol>
 
