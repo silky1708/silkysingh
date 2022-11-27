@@ -6,6 +6,11 @@ import bookCover from '../../images/origin.jpg';
 const Styles = styled.div`
 font-family: "Georgia", sans-serif;
 // background-color: #ffdeb2;
+
+.blank-column {
+    background-color: #8c7d8b;
+}
+
 `;
 
 class Book3 extends React.Component{
@@ -14,7 +19,7 @@ class Book3 extends React.Component{
             <Styles>
                 <div className="container-fluid p-2">
                 <div className="row no-gutters justify-content-center align-items-center">
-                        <div className="col-md-3"></div>
+                        <div className="col-md-3" style={{}}></div>
                         <div className="col-md-6">
                             <h2 className="py-2" style={{}}>Origin</h2>
                             <br/>
@@ -22,13 +27,13 @@ class Book3 extends React.Component{
                             <br/><br/>
 
                             <div className="text-center justify-content-center d-flex">
-                            <Image src={bookCover} style={{height:'130px', width:'130px'}} className="shadow" style={{transform: 'rotate(270deg)', height:'200px', width:'260px'}}/>
+                            <Image src={bookCover} className="shadow" style={{transform: 'rotate(270deg)', height:'200px', width:'260px'}}/>
                             </div>
                             <br/><br/><br/>
                             
                             <p style={{color: '#000000', fontSize:'1.1em'}}>
                               A revolutionary scientist, Edmund Kirsch, is about to announce to the world a
-                              great innovation- the origin of the world. There is a great hype around the event he is hosting for the same.
+                              great discovery- the origin of the world. There is a great hype around the event he is hosting for the same.
                               The conspiracy theories are circulating all around. 
                             </p>
 
@@ -38,7 +43,7 @@ class Book3 extends React.Component{
                                 the world.
                             </p>
                         </div>
-                        <div className="col-md-3"></div>
+                        <div className="col-md-3" style={{backgroundColor:'#8C7D8B'}}></div>
                     </div>
                 </div>
             </Styles>

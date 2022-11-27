@@ -58,7 +58,7 @@ function App() {
           <h2>Hi there! I am Silky Singh.</h2>
         </div>
         <div className="row no-gutters align-items-center justify-content-center p-1 footer" style={{marginTop:'auto'}}>
-            <div className="col-sm-auto secondary-color">Find me here : </div>
+            <div className="col-sm-auto secondary-color">Find me here: &nbsp; </div>
             <div className="col-sm-auto d-flex ">
               <div className="px-1">
                 <a href='https://www.linkedin.com/in/silky1708/' style={{textDecoration:'None', color: '#e2498a', opacity:'1'}}><FaLinkedin size={20} className="linkedin"/></a>
@@ -87,7 +87,7 @@ function App() {
         </div>
         <div className="row align-items-center p-1 mt-2 no-gutters mid-section">
           <div className="col-md-1"></div>
-            <div className="col-md-4 align-items-center text-center p-2 pt-5"><Image src={mypic} className="shadow p-3 mb-2 bg-white rounded"/>
+            <div className="col-md-4 align-items-center text-center p-2"><Image src={mypic} className="shadow p-3 mb-2 bg-white rounded"/>
             <br/>
             New Delhi, 2019.
             </div>

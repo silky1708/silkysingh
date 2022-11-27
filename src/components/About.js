@@ -81,7 +81,7 @@ class About extends React.Component{
                         <br/>
                         <h4>What I'm doing now? 👩‍💻</h4>
                         As a research associate, I'm deep diving into the existing literature & codebases on self-supervised
-                        learning. I occasionally do yoga too.
+                        learning.
 
                     </div>
                     <div className="col-md-2"></div>

@@ -35,6 +35,19 @@ import Book5 from './misc/books/5.js';
 import Book6 from './misc/books/6.js';
 import Book7 from './misc/books/7.js';
 import Book8 from './misc/books/8.js';
+import Book9 from './misc/books/9.js';
+import Book10 from './misc/books/10.js';
+import Book11 from './misc/books/11.js';
+import Book12 from './misc/books/12.js';
+import Book13 from './misc/books/13.js';
+import Book14 from './misc/books/14.js';
+import Book15 from './misc/books/15.js';
+import Book16 from './misc/books/16.js';
+import Book17 from './misc/books/17.js';
+import Book18 from './misc/books/18.js';
+import Book19 from './misc/books/19.js';
+import Book20 from './misc/books/20.js';
+import Book21 from './misc/books/21.js';
 
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -85,6 +98,19 @@ ReactDOM.render(
         <Route exact path="/silkysingh/misc/books/section_3/6" component={Book6}/>
         <Route exact path="/silkysingh/misc/books/section_3/7" component={Book7}/>
         <Route exact path="/silkysingh/misc/books/section_3/8" component={Book8}/>
+        <Route exact path="/silkysingh/misc/books/section_3/9" component={Book9}/>
+        <Route exact path="/silkysingh/misc/books/section_3/10" component={Book10}/>
+        <Route exact path="/silkysingh/misc/books/section_3/11" component={Book11}/>
+        <Route exact path="/silkysingh/misc/books/section_3/12" component={Book12}/>
+        <Route exact path="/silkysingh/misc/books/section_3/13" component={Book13}/>
+        <Route exact path="/silkysingh/misc/books/section_3/14" component={Book14}/>
+        <Route exact path="/silkysingh/misc/books/section_3/15" component={Book15}/>
+        <Route exact path="/silkysingh/misc/books/section_3/16" component={Book16}/>
+        <Route exact path="/silkysingh/misc/books/section_3/17" component={Book17}/>
+        <Route exact path="/silkysingh/misc/books/section_3/18" component={Book18}/>
+        <Route exact path="/silkysingh/misc/books/section_3/19" component={Book19}/>
+        <Route exact path="/silkysingh/misc/books/section_3/20" component={Book20}/>
+        <Route exact path="/silkysingh/misc/books/section_3/21" component={Book21}/>
 
 
       </Switch>

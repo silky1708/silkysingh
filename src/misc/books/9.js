@@ -23,7 +23,30 @@ class Book9 extends React.Component{
                             <br/><br/>
                             <p style={{color: '#000000', fontSize:'1.1em'}}>
                                 A quick-paced thriller!
-                                A man is killed by his wife, and the wife is 
+                                A man is found dead, and his wife refuses to speak about the night her 
+                                husband was shot. She is admitted to a psychiatry centre.
+
+                                <br/><br/>
+                                6 years pass by, a psychologist starts taking special interest in the case.
+                                He is adamant to get her to speak and is quite confident about it. 
+                                He starts visiting her at the centre, and her family members. Slowly, she starts
+                                to open up to him, shares her diary with him too. Will she ever confess?
+                                
+                                <br/><br/>
+                                <em>SPOILERS!</em><br/><br/>
+                                Turns out the psychologist himself was involved in the case. The night her husband died,
+                                the psychologist was there already when she reached home, finding her husband tied to
+                                a chair. The psychologist reached their home following the patient's husband, who his
+                                wife was cheating him with. 
+
+                                With the sense of betrayal he felt, he asked the husband if he loved his wife. By then,
+                                she was home and listening to all the conversation. The psychologist handed the gun to 
+                                her, and left the place...
+
+
+
+
+                                
                             </p>
 
                         </div>
