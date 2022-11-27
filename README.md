@@ -76,3 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 1. ```npm run build``` 
 2. ```npm run deploy```
+3. commit & push to the repo
